@@ -4,8 +4,7 @@ The News Application is an iOS application designed to display the latest news h
 
 Features:-
 
-Fetch and display the latest news headlines from a news API. View article details, including title, description, and an image. Display likes and comments for each article fetched from a mock API. Open full articles in Safari using SFSafariViewController. Responsive UI with smooth data binding and table view updates.
-
+Fetch and display the latest news headlines from a news API.
 Technologies Used:-
 Language: Swift
 UI Framework: UIKit
