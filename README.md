@@ -20,5 +20,5 @@ Open the project in Xcode: open NewsApp.xcodeproj
 Install dependencies (if any) using CocoaPods or Swift Package Manager.
 Build and run the project on a simulator or physical device.
 
-API Details: [https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=<YOUR_API_KEY>](https://newsapi.org/v2/top-headlines?country=us&apiKey=8edb2683cb784e1b97524f9a2a09f063)
+API Details: https://newsapi.org/v2/top-headlines?country=us&apiKey=8edb2683cb784e1b97524f9a2a09f063
 Response: List of news articles.
